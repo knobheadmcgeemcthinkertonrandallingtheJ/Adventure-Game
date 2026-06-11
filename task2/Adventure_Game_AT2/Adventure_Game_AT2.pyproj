@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="Adventure_Game_AT2.py" />
     <Compile Include="Classes\Character.py" />
+    <Compile Include="merggsbf.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Classes\" />

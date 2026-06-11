@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Classes\\Character.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:Classes\\Character.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "merggsbf.py",
+              "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py",
+              "RelativeDocumentMoniker": "merggsbf.py",
+              "ToolTip": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py",
+              "RelativeToolTip": "merggsbf.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-06-11T03:37:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Character.py",
               "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Classes\\Character.py",
               "RelativeDocumentMoniker": "Classes\\Character.py",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Adventure_Game_AT2.py",
               "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Adventure_Game_AT2.py",
               "RelativeDocumentMoniker": "Adventure_Game_AT2.py",
