@@ -1,2 +1,3 @@
-
-hi
+OI LOCK IN JOSH
+josh is an OI competitor who is very good at merging sorted lists. He has two sorted lists of integers, and he wants to merge them into a single sorted list. However, he wants to do this in a way that minimizes the number of comparisons he has to make.
+josh has come up with a clever algorithm that allows him to merge the two lists in O(n) time, where n is the total number of elements in both lists. The algorithm works as follows:
