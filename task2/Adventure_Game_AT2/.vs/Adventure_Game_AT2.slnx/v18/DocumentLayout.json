@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Adventure_Game_AT2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:Adventure_Game_AT2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Classes\\Character.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:Classes\\Character.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Adventure_Game_AT2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:Adventure_Game_AT2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E528F8A-10E2-43FE-9B1C-C328F04F13FE}|Adventure_Game_AT2.pyproj|solutionrelative:merggsbf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "merggsbf.py",
               "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\merggsbf.py",
               "RelativeDocumentMoniker": "merggsbf.py",
@@ -47,11 +47,12 @@
               "RelativeToolTip": "Classes\\Character.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-06-09T02:38:09.935Z"
+              "WhenOpened": "2026-06-09T02:38:09.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Adventure_Game_AT2.py",
               "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\Kobidonedid\\task2\\Adventure_Game_AT2\\Adventure_Game_AT2.py",
               "RelativeDocumentMoniker": "Adventure_Game_AT2.py",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Adventure_Game_AT2.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-06-09T02:32:50.145Z"
+              "WhenOpened": "2026-06-09T02:32:50.145Z",
+              "EditorCaption": ""
             }
           ]
         }
